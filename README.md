@@ -188,4 +188,4 @@ while True:
         print("Pilihan tidak valid!")
 ````
 
-![output](outputpemrogpert11.jpg)
+![output](sspemropt10.png)
